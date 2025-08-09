@@ -1,4 +1,4 @@
-# Car-Showroom-Management-System
+# Car Showroom Management System
 This is a Graphical User Interface (GUI) based project that utilizes capabilities of Python and MySQL connectivity to create an interface that will allow people to buy vehicles based on mainstream classifications and given prompts such as model name, price, etc.
 
 The project also unifies the entire automobile transaction landscape by allowing sellers to be a part of it, it employs the requisite standard authentication and review measures to ultimately ensure quality customer experience.   
