@@ -7,3 +7,9 @@ This project exemplifies how far the boundaries can be pushed with the GUI featu
 
 My project can serve as a foundation for other similar projects in this field, and may even inspire the creation of systems that aim to provide comprehensive yet multifaceted end-user tools and management capabilities.
 
+How to run the code?
+
+1] Copy-Paste the python code in your 
+2] Remove the documentation of SQL codes
+3] Change the image paths accordingly
+4] Once the program is run for the first time,  postively make proper documentation of the SQL codes
